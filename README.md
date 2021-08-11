@@ -1,4 +1,4 @@
-# WebLibrary [Sql Fork]
+# WebLibrary [Sql Version]
 Html + CSS + Javascript + Jquery based online library 
 With SQL database integrations
 
